@@ -30,3 +30,4 @@ the specific requirements of the project and the preferences of the developer or
 Download Python for Data analysis book by Wes Mckinny <a href="https://github.com/sagardhavalgi/Python/blob/main/Python-for-Data-Analysis-Wes-McKinney-Book-PDF-Download-www.indianpdf.com_.pdf"> 👉 Click here </a>
 
 Best Python practice platform <a href="https://www.hackerrank.com/"> 👉 Click here </a>
+
